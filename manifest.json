@@ -1,11 +1,11 @@
 {
-    "name": "wallpaper_jam",
-    "short_name": "wallpaper_jam",
+    "name": "diPanen.id Petani",
+    "short_name": "diPanen.id Petani",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Aplikasi diPanen.id untuk melihat data setoran petani.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
